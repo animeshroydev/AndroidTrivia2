@@ -1,4 +1,4 @@
-AndroidTrivia - starter code
+AndroidTrivia - Finished Code
 ============================
 
 Starter code for Android Kotlin Fundamentals codelab 3.1: Create and add a
